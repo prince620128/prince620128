@@ -1,19 +1,35 @@
-# Hello, I'm Prince
+<div align="center">
 
-### Software Developer
+# Hi, I’m Prince 👋
 
-Building practical software with a focus on clean code, thoughtful problem-solving, and continuous learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Software+Developer;Clean+Code.+Practical+Solutions.;Build.+Learn.+Improve." alt="Animated introduction: Software Developer — Clean Code. Practical Solutions. — Build. Learn. Improve." />
+
+**Turning ideas into practical software.**
+
+[![Explore repositories](https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/prince620128?tab=repositories)
+
+</div>
 
 ---
 
-## My approach
+### `> about_me`
 
-- **Keep it clear** — write code that is easy to read and maintain.
-- **Build with purpose** — turn ideas into useful software.
-- **Keep improving** — learn, experiment, and refine.
+I’m a **software developer** focused on clear code, thoughtful problem-solving, and continuous learning. This is where I share my development work and ideas.
 
-## Explore my work
+### `> how_i_build`
 
-This profile is the home for my development projects and technical work.
+| Focus | Approach |
+| :--- | :--- |
+| **Clarity** | Keep code readable and easy to maintain. |
+| **Purpose** | Build software around practical needs. |
+| **Progress** | Experiment, learn, and improve with every iteration. |
 
-[View my repositories](https://github.com/prince620128?tab=repositories)
+---
+
+<div align="center">
+
+**BUILD WITH PURPOSE · KEEP IT CLEAR · KEEP IMPROVING**
+
+[Browse my work →](https://github.com/prince620128?tab=repositories)
+
+</div>
